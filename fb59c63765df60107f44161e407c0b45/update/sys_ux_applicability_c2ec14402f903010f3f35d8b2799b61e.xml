@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_applicability">
+    <sys_ux_applicability action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <api_name>x_1234_peer_review.Audience for appPeer Review</api_name>
+        <description/>
+        <name>Audience for appPeer Review</name>
+        <roles name="x_1234_peer_review.peer_review_user">d45cd8002f903010f3f35d8b2799b68f</roles>
+        <sys_class_name>sys_ux_applicability</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-05-18 11:53:55</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>c2ec14402f903010f3f35d8b2799b61e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Audience for appPeer Review</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Peer Review" source="x_1234_peer_review">fb59c63765df60107f44161e407c0b45</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Peer Review">fb59c63765df60107f44161e407c0b45</sys_scope>
+        <sys_update_name>sys_ux_applicability_c2ec14402f903010f3f35d8b2799b61e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-05-18 11:53:55</sys_updated_on>
+    </sys_ux_applicability>
+</record_update>
